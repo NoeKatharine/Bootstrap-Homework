@@ -18,5 +18,5 @@ h1 {
 }
 
 .jumbotron {
-  background-color: rgba(255, 0, 0, 0.4);
+  background-color: hsla(0, 100%, 70%, 0.3);
 }
