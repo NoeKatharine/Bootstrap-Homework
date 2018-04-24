@@ -5,3 +5,6 @@
 .container {
   background-color: rgba(0, 0, 255, 0.3);
   } /* 1. changed background color to purple */
+
+h1 {
+  font-size: 12px; /* 2. changed font size to 12 */
