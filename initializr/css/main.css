@@ -17,3 +17,6 @@ h1 {
   text-decoration: underline; /* 6. Underlined each step */
 }
 
+.jumbotron {
+  background-color: rgba(255, 0, 0, 0.4);
+}
