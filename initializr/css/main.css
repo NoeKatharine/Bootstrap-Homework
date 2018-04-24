@@ -7,15 +7,15 @@
   } /* 1. changed background color to purple */
 
 h1 {
-  font-weight: bold; /* 3. changed font-weight to make letters more bold */
+  font-weight: bold; /* 2. changed font-weight to make letters more bold */
 }
 
 .panel-heading {
-  font-size: 12px; /* 4. Changed font size to 12 px to make lettering bigger in each step*/
-  font-weight: bold; /* 5. Changed font-weight to bold */
-  text-decoration: underline; /* 6. Underlined each step */
+  font-size: 12px; /* 3. Changed font size to 12 px to make lettering bigger in each step*/
+  font-weight: bold; /* 4. Changed font-weight to bold */
+  text-decoration: underline; /* 5. Underlined each step */
 }
 
 .jumbotron {
-  background-color: hsla(0, 100%, 70%, 0.3);
+  background-color: hsla(0, 100%, 70%, 0.3); /*6. changed background color*/
 }
