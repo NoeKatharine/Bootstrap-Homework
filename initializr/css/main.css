@@ -1,3 +1,7 @@
  .Guess-What {
      color: pink;
    }
+
+.container {
+  background-color: rgba(0, 0, 255, 0.3);
+  } /* 1. changed background color to purple */
