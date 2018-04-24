@@ -11,3 +11,5 @@ h1 {
   font-weight: bold; /* 3. changed font-weight to make letters more bold */
 }
 
+.panel-heading {
+  font-size: 12px; /* 4. Changed font size to 12 px to make lettering bigger in each step*/
