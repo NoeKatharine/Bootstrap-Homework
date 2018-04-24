@@ -13,3 +13,7 @@ h1 {
 
 .panel-heading {
   font-size: 12px; /* 4. Changed font size to 12 px to make lettering bigger in each step*/
+  font-weight: bold; /* 5. Changed font-weight to bold */
+  text-decoration: underline; /* 6. Underlined each step */
+}
+
